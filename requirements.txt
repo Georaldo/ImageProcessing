@@ -14,7 +14,7 @@ tensorflow>=2.12.0,<2.21.0
 keras==2.15.0
 
 # Face detection & recognition
-dlib-bin==19.24.2
+dlib-bin>=19.24.6,<20.0
 face-recognition==1.3.0
 face-recognition-models==0.3.0
 deepface==0.0.95
