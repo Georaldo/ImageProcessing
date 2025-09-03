@@ -10,8 +10,8 @@ Pillow==11.0.0
 opencv-python-headless==4.12.0.88
 
 # ML / Deep Learning
-tensorflow>=2.12.0,<2.21.0
-keras==2.15.0
+tensorflow==2.20.0
+keras>=3.10.0
 
 # Face detection & recognition
 dlib-bin>=19.24.6,<20.0
