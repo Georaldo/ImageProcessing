@@ -1,13 +1,1 @@
 cmake
-build-essential
-
-libgl1
-libglib2.0-0
-libsm6
-libxext6
-libxrender-dev
-
-libopenblas-dev
-liblapack-dev
-libatlas-base-dev
-libboost-all-dev
