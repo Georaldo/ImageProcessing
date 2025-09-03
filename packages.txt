@@ -1,2 +1,16 @@
+# Core build tools
+cmake
+build-essential
+
+# Image/video processing dependencies
 libgl1
 libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
+
+# For dlib & face_recognition
+libopenblas-dev
+liblapack-dev
+libatlas-base-dev
+libboost-all-dev
